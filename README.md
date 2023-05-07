@@ -1,1 +1,1 @@
-# Andrii-Pylypenko
+# GREED_RULES.txt
